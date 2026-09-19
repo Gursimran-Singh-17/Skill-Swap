@@ -2,7 +2,7 @@
 
 > **Hackathon Submission**: Code2Career Hackathon (`hackathon.azisly.ai`)  
 > **Track**: Track 2 — Web Product  
-> **Hackathon ID**: `[YOUR_HACKATHON_ID]` *(Fill in from your profile page)*
+> **Hackathon ID**: NA (We didn't get the Hackathon ID)
 
 ---
 
@@ -46,27 +46,4 @@ SkillSwap strictly requires **NO authentication (login/signup) anywhere**. Evalu
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone & Install
-```bash
-git clone https://github.com/ronitrai27/clario-career_platform.git
-cd clario-career_platform/clario-career-platform
-pnpm install
-```
-
-### 2. Configure Environment Variables (`.env.local`)
-*(Optional: The app runs out-of-the-box with built-in memory seed data even without DB keys!)*
-```env
-NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-```
-
-### 3. Database Setup (Optional)
-Run `schema.sql` in your Supabase SQL Editor to initialize the `creators`, `gigs`, and `bookings` tables.
-
-### 4. Run Development Server
-```bash
-pnpm dev
-```
-Open [http://localhost:3000](http://localhost:3000) with your browser.
+Open https://skill-swap-gursimran.vercel.app/ with your browser.
